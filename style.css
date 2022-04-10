@@ -19,6 +19,7 @@
 .steps {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    text-align: center;
 }
 
 .description {
@@ -26,11 +27,11 @@
 }
 
 .ingredients {
-    background-color: chocolate;
+    background-color: sienna;
 }
 
 .steps {
-    background-color: coral;
+    background-color: chocolate;
 }
 
 .recipe-links {     
