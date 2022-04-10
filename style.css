@@ -18,7 +18,7 @@
 .ingredients, 
 .steps {
     font-family: Arial, Helvetica, sans-serif;
-    color: whitesmoke;
+    color: white;
 }
 
 .description {
@@ -31,4 +31,11 @@
 
 .steps {
     background-color: coral;
+}
+
+.recipe-links {     
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: darkred;
 }
